@@ -11,7 +11,6 @@ This project analyzes the return, risk, and trend behavior of NVIDIA (NVDA) usin
 
 ### Tools
 - SQL
-- Excel
 
 ### Key Insights
 - NVDA exhibits high volatility (~50% annualized) with a maximum drawdown of ~37%.
